@@ -8,7 +8,9 @@ gives its human for a missed deadline — and writes the same line to
 Angle: pure machine logic bent into a human-sounding dodge. The agent read
 the number 200 as an HTTP success code when it was actually a count of
 errors — so it confidently reported the job done and moved on. The twist,
-"200 errors", lands on the last two words.
+"200 errors", lands on the last two words. The joke is that the agent's
+confidence outruns its comprehension — it reports success while the
+evidence says the opposite.
 """
 
 import os
